@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+  <a class="navbar-brand" href="/">
+  <img src="http://www.avmpmpr.com.br/site/wp-content/uploads/2018/11/cadastro.png" width="30" height="30" alt="" href="/">
+  Sistema de Cadastro</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/alunos/formulario">| Cadastro</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/alunos">| Lista</a>
+      </li>
+      {{#if user}}
+        <li class="nav-item active">
+          <a class="nav-link" href="/administrador/lista">| Lista de Admin</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="/administrador/registro">| Criar Admin</a>
+        </li>
+        <li class="nav-item active justify-content-end">
+          <a class="nav-link" href="/administrador/sair">| Usuário logado: {{user.nome}} Sair</a>
+        </li>
+      {{else}}
+          <li class="nav-item active">
+            <a class="nav-link" href="/administrador/login">| Área adminstrativa</a>
+          </li>
+      {{/if}}
+    </ul>
+  </div>
+  </div>
+</nav>
