@@ -10,6 +10,7 @@ module.exports = (passport)=>{
         cb(null, obj);
       });
       
+    
       passport.use(new FacebookStrategy({
           clientID: 'SEU CLIENTE ID',
           clientSecret: 'SEU CLIENT SECRET',
