@@ -10,7 +10,7 @@ Pequena aplicação de cadastro exemplo com arquitetura MVC.
 * Template engine HBS
 * Framework front-end Bootstrap
 * Framework express
-* 
+
 
 hash de senha:
 npm i --save bcryptjs
