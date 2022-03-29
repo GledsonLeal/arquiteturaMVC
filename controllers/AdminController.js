@@ -52,12 +52,12 @@ module.exports = class AdminController{
                                 Simétrico: uma chave para criptografia e descriptografia.
                             hash: são algoritmos que não possibilitam o retorno da senha original
                 */
-                bcrypt.genSalt(10, (salt)=>{
+                bcrypt.genSalt(10, (erro, salt)=>{
                 // o 10 representa 2 elevado a 10 = 1024. Vai gerar uma criptografia diferente.
                 // o módulo bcrypt tem um módulo de comparação de senhas hash.
                 // não é possível reverter um hash, mas é possível comparar 2 hash
                 //IMPORTANTE!! DEPOIS DAQUI, DESENVOLVER O FORMULÁRIO DE LOGIN
-                   bcrypt.hash(admin.senha, salt, (hash)=>{
+                   bcrypt.hash(admin.senha, salt, (erro, hash)=>{
                        admin.senha = hash
                        new Admin(admin).save().then(()=>{
                            req.flash("success_msg", "Administrador salvo com sucesso!")
