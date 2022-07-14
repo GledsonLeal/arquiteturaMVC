@@ -1,9 +1,10 @@
 const mongo = require('mongoose')
 
-mongo.Promise = global.Promise
+//mongo.Promise = global.Promise
 
 mongo.connect("mongodb://localhost/mvcmongo",{
-    //useMongoClient: true
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
 }).then(()=>{
     console.log('********* Conectado ao Banco de Dados NoSQL MongoDB ****************')
     console.log('http://localhost:3000')

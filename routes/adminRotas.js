@@ -3,22 +3,31 @@ const router = express.Router();
 
 const AdminController = require('../controllers/AdminController')
 
+const passport = require('passport')
+
 const { usuarioAdmin } = require("../helpers/usuarioAdmin")//{ usuarioAdmin } este objeto está pegando somente a função usuarioAdmin
 
 
-router.get('/', usuarioAdmin,  AdminController.inicialAdmin)
-router.get('/registro', usuarioAdmin,   AdminController.registroAdmin)
-router.post('/registroAdminPost', usuarioAdmin,  AdminController.registroAdminPost)
-router.get('/lista', usuarioAdmin,  AdminController.listarAdmin)
+
+router.get('/', usuarioAdmin,   AdminController.inicialAdmin)
+router.get('/registro', usuarioAdmin,    AdminController.registroAdmin)
+router.post('/registroAdminPost', usuarioAdmin,   AdminController.registroAdminPost)
+router.get('/lista', usuarioAdmin,   AdminController.listarAdmin)
 router.post('/deletarAdmin', usuarioAdmin, AdminController.deletarAdmin)
 router.get('/login', AdminController.login)
 router.post('/loginPost',  AdminController.loginPost)
-router.get('/sair', usuarioAdmin, AdminController.sair)
-router.post('/editarAdmin', usuarioAdmin, AdminController.updateAdmin)
-router.post('/editarAdminPost', usuarioAdmin, AdminController.updateAdminPost)
+router.get('/sair', usuarioAdmin,  AdminController.sair)
+router.post('/editarAdmin', usuarioAdmin,  AdminController.updateAdmin)
+router.post('/editarAdminPost', usuarioAdmin,  AdminController.updateAdminPost)
 //rotas facebook
-//router.get('/facebook', AdminController.authFacebook)
-router.get('/facebook', usuarioAdmin, AdminController.authFacebookCallback)
+
+router.get('/auth/facebook', passport.authenticate('facebook', 
+{scope : 'email'}
+));
+router.get('/facebook/callback',      passport.authenticate('facebook', {
+    successRedirect: '/administrador',// qual o caminho quaso ocorrer a autenticação
+    failureRedirect: '/administrador/login',// caminho de erro
+}));
 
 
 

@@ -12,8 +12,14 @@ const Admin = new Schema({
     },
     senha: {
         type: String,
-        required: true
+        //required: true
     },
+    pic: String,
+    uid: String, //Facebook id
+    token: String,
+    gender: String
+
+    
 })
 
 mongoose.model("admin", Admin)

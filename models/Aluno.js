@@ -7,6 +7,9 @@ const Aluno = new Schema({
         type: String,
         required: true
     },
+    dataNascimento:{
+        type: Date,
+    },
     email: {
         type: String,
         required: true
