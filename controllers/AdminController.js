@@ -62,7 +62,7 @@ module.exports = class AdminController{
                        admin.senha = hash
                        new Admin(admin).save().then(()=>{
                            req.flash("success_msg", "Administrador salvo com sucesso!")
-                           res.redirect('/administrador/lista')
+                           res.redirect('/administrador/lista') 
                        }).catch((erro)=>{
                             req.flash("error_msg", `Erro ao salvar: ${erro}`)
                             res.redirect('/administrador/lista')

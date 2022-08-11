@@ -34,6 +34,7 @@ function(token, refreshToken, profile, done) {
                 newUser.email = profile.emails[0].value; // o facebook pode retornar vários e-mails, então vamos pegar o primeiro
                 newUser.gender = profile.gender
                 newUser.pic = profile.photos[0].value
+                //newUser.telephone = profile.telephone[0]
                 newUser.save(function(err) {
                     if (err)
                         throw err;
