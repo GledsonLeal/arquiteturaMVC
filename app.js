@@ -2,20 +2,35 @@ const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
 const cookieParser = require('cookie-parser');
-const logger = require('morgan');
+const multer = require("multer")
+/*
+cookie-parser é uma biblioteca do Node.js que permite analisar e gerar cookies HTTP
+ */
+//const logger = require('morgan');
 const passport = require('passport')//sistema de login
 require('./config/auth')(passport)//sistema de login
 require('./config/authFacebook')(passport)//login com facebook
 const session = require('express-session')
 const flash = require('connect-flash')
 const app = express();
+const logger_info = require('./helpers/logger')
 
 
 //sessão
 app.use(session({
   secret: "umasenha",//chave de acesso
   resave: true,
+  /**
+   resave: se true, a sessão será salva no armazenamento de sessão 
+   em cada solicitação, mesmo que a sessão não tenha sido modificada. 
+   Se false, a sessão só será salva se tiver sido modificada.
+   */
   saveUninitialized: true,
+  /**
+   saveUninitialized: se true, a sessão será salva mesmo que ela 
+   não tenha sido inicializada. Se false, a sessão só será salva 
+   se tiver sido modificada.
+   */
   cookie: {
     //secure: true,
     // A sessão expira após 1 minuto de inatividade.
@@ -60,7 +75,7 @@ hbs.registerPartials(path.join(__dirname + '/views/partials'));// LINHA ADICIONA
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'hbs');
 
-app.use(logger('dev'));
+//app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
@@ -82,9 +97,14 @@ app.use(function(req, res, next) {
 // error handler
 app.use(function(err, req, res, next) {
   // set locals, only providing error in development
+  if (err instanceof multer.MulterError) {
+    // Erro do Multer
+    res.status(400).send('Erro ao fazer upload do arquivo: ' + err.message);
+  }
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};
-
+  logger_info.info(err.message)
+  logger_info.info(err.status)
   // render the error page
   res.status(err.status || 500);
   res.render('error');

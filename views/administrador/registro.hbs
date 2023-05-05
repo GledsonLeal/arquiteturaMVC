@@ -15,9 +15,11 @@
 
 <div class="card">
   <div class="card-body">
-    <form action="/administrador/registroAdminPost" method="post">
+    <form action="/administrador/registroAdminPost" method="post" enctype="multipart/form-data">
       <label for="nome">Nome: </label>
         <input type="text" name="nome" class="form-control" required>
+      <label for="pic">Foto: </label>
+        <input type="file" name="pic" class="form-control" required>
       <label for="email">E-mail: </label>
         <input type="email" name="email" class="form-control" required>
       <label for="senha">Senha: </label>  

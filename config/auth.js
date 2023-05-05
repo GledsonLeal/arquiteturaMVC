@@ -18,7 +18,7 @@ module.exports = (passport)=>{
         Admin.findOne({email: email}).then((admin)=>{
             //procura email igual a do usernameField
             if(!admin){
-                return done(null, false, {mesage: "Conta inexistente"})
+                return done(null, false, {message : "Conta inexistente ou senha incorreta"})
                             //1º parâmetro: dados da conta autenticado, null porque nenhuma conta foi autenticada
                             //2º parâmetro: se a autenticação ocorreu com sucesso ou não
                             //3ª parâmetro: mensagem
@@ -26,7 +26,7 @@ module.exports = (passport)=>{
             bcrypt.compare(senha, admin.senha, (error, senhaIgual)=>{
                 //vai comparar senha com a admin.senha
                 if(senhaIgual) return done(null, admin)// se a senha equivalem
-                else return done(null, false, {mensage: "senha incorreta"})
+                else return done(null, false, {message : "Conta inexistente ou senha incorreta"})
             })
         })
     }))

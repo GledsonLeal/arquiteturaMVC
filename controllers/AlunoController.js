@@ -57,6 +57,7 @@ module.exports = class AlunoController{
        
     }
     static updateAlunoPost(req, res){
+        //realizar a verificação dos campos
         const alunoUpdate = {
             nome : req.body.nome,
             email : req.body.email,

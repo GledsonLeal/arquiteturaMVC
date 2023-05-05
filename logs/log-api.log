@@ -1,0 +1,301 @@
+[2023-04-20T15:56:07.554Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T15:57:01.670Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T15:57:06.745Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T15:57:18.272Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T15:57:19.484Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T15:58:00.552Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T15:58:36.512Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T15:58:37.838Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T15:58:52.221Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T15:58:52.431Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T15:59:02.014Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:00:26.550Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:00:26.623Z] info C:\Users\gleds\OneDrive\IFSUL\Programação para Web II\PWII - 2023-1\mvc_expressgenerator - login - mongo - Copia - Copia\views\layout.hbs: The partial _navbar could not be found
+[2023-04-20T16:00:26.624Z] info undefined
+[2023-04-20T16:00:39.791Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:00:41.342Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:00:44.141Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:00:53.656Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:01:08.360Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:01:08.552Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:01:14.738Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:01:14.751Z] info Failed to lookup view "/administrador/listaAdmin.hbs" in views directory "C:\Users\gleds\OneDrive\IFSUL\Programação para Web II\PWII - 2023-1\mvc_expressgenerator - login - mongo - Copia - Copia\views"
+[2023-04-20T16:01:14.752Z] info undefined
+[2023-04-20T16:02:04.529Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:02:07.077Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:02:10.142Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:02:23.761Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:02:23.969Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:02:28.428Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:02:28.442Z] info Failed to lookup view "/administrador/listaAdmin" in views directory "C:\Users\gleds\OneDrive\IFSUL\Programação para Web II\PWII - 2023-1\mvc_expressgenerator - login - mongo - Copia - Copia\views"
+[2023-04-20T16:02:28.443Z] info undefined
+[2023-04-20T16:02:47.562Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:02:52.441Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:02:55.029Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:02:58.354Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:03:12.694Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:03:12.900Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:03:15.183Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:04:35.610Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:04:38.876Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:04:57.669Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:04:57.827Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:05:03.581Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:05:27.748Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:07:44.948Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:07:52.079Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:07:53.183Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:07:54.806Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:08:03.023Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:08:03.230Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:08:07.003Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:08:07.025Z] info Not Found
+[2023-04-20T16:08:07.026Z] info 404
+[2023-04-20T16:08:32.892Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:08:42.425Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:08:45.712Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:08:46.453Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:08:47.409Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:08:58.803Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:08:58.993Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:09:03.285Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:09:03.307Z] info Not Found
+[2023-04-20T16:09:03.308Z] info 404
+[2023-04-20T16:09:21.751Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:09:24.390Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:09:25.650Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:09:40.423Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:09:40.619Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:09:42.685Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:09:42.708Z] info Not Found
+[2023-04-20T16:09:42.708Z] info 404
+[2023-04-20T16:10:03.520Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:10:06.015Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:10:10.054Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:10:11.959Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:10:23.089Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:10:23.319Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:10:25.222Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:10:25.242Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:10:39.289Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:11:06.469Z] info servidor rodando: http://localhost:3000
+[2023-04-20T16:11:11.414Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:11:12.478Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:11:13.689Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:11:25.713Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:11:25.897Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:11:27.816Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:11:27.842Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:11:37.397Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:20:35.706Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-20T16:20:38.054Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-20T16:21:10.345Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-20T16:21:10.504Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:21:14.305Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-20T16:21:14.328Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-20T16:21:23.151Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-21T00:25:46.169Z] info servidor rodando: http://localhost:3000
+[2023-04-21T00:25:53.535Z] info Not Found
+[2023-04-21T00:25:53.536Z] info 404
+[2023-04-21T00:26:01.934Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-21T00:26:40.325Z] info servidor rodando: http://localhost:3000
+[2023-04-21T00:39:16.821Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-21T00:39:18.329Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-21T00:39:34.832Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-21T00:39:34.945Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-21T00:39:52.969Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-21T00:40:02.817Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-21T00:40:02.831Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-21T00:40:06.952Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-21T00:40:37.482Z] info Usuario Gledson Leite Leal deslogado
+[2023-04-21T01:07:21.740Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-04-21T01:07:25.351Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-04-21T01:07:48.609Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-04-21T01:07:48.696Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-04-21T01:08:00.199Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-04-21T01:08:00.211Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:19:23.987Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:19:26.866Z] info Not Found
+[2023-05-04T13:19:26.866Z] info 404
+[2023-05-04T13:20:09.977Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:20:12.806Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:20:18.616Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:20:53.534Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:23:21.694Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:23:29.611Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:23:50.862Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:24:03.568Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:24:15.169Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:25:48.472Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:28:14.725Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:28:19.785Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-05-04T13:28:33.849Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-05-04T13:29:52.597Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:29:54.748Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:29:54.830Z] info Not Found
+[2023-05-04T13:29:54.831Z] info 404
+[2023-05-04T13:29:57.317Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:29:57.372Z] info Not Found
+[2023-05-04T13:29:57.373Z] info 404
+[2023-05-04T13:30:04.953Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:05.008Z] info Not Found
+[2023-05-04T13:30:05.008Z] info 404
+[2023-05-04T13:30:05.728Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:05.781Z] info Not Found
+[2023-05-04T13:30:05.781Z] info 404
+[2023-05-04T13:30:06.997Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:07.056Z] info Not Found
+[2023-05-04T13:30:07.057Z] info 404
+[2023-05-04T13:30:07.991Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:08.045Z] info Not Found
+[2023-05-04T13:30:08.045Z] info 404
+[2023-05-04T13:30:15.929Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-05-04T13:30:15.946Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:19.457Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-05-04T13:30:28.896Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-05-04T13:30:29.014Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:30:48.100Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-05-04T13:31:29.227Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:35:48.716Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:37:31.951Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:37:34.040Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:37:42.016Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/editarAdmin
+[2023-05-04T13:37:45.706Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/editarAdminPost
+[2023-05-04T13:37:45.816Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:37:53.020Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T13:38:01.269Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:38:09.258Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:38:38.209Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/deletarAdmin
+[2023-05-04T13:38:50.733Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:38:52.769Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:39:10.654Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T13:39:13.857Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:39:17.801Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-05-04T13:39:32.744Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registroAdminPost
+[2023-05-04T13:39:32.839Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T13:57:53.388Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:07.211Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:40.356Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:45.166Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:46.844Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:49.353Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:54.721Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:58:57.139Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:59:05.562Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:59:07.375Z] info servidor rodando: http://localhost:3000
+[2023-05-04T13:59:10.292Z] info servidor rodando: http://localhost:3000
+[2023-05-04T14:01:20.582Z] info servidor rodando: http://localhost:3000
+[2023-05-04T14:01:44.057Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T14:01:50.407Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T14:02:19.711Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T14:02:23.595Z] info Usuario Gledson L deslogado
+[2023-05-04T14:02:56.642Z] info servidor rodando: http://localhost:3000
+[2023-05-04T14:03:05.425Z] info servidor rodando: http://localhost:3000
+[2023-05-04T14:14:37.117Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T14:14:40.126Z] info Usuario Gledson L deslogado
+[2023-05-04T14:15:23.198Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T14:15:27.913Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T14:15:43.326Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:17:17.136Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:17:20.223Z] info Not Found
+[2023-05-04T20:17:20.224Z] info 404
+[2023-05-04T20:29:51.821Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:31:41.745Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:32:04.320Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:36:51.623Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:37:18.907Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:39:57.056Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:40:00.141Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:40:05.175Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:40:15.231Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:40:22.927Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:40:31.798Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:44:38.202Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:44:49.980Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:44:56.318Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:46:16.103Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:46:56.551Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:47:05.302Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:47:07.875Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:47:11.264Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:47:13.634Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:47:20.033Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:47:59.788Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:48:05.541Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/registro
+[2023-05-04T20:48:07.294Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:48:09.973Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:49:21.491Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:49:23.611Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:50:20.945Z] info servidor rodando: http://localhost:3000
+[2023-05-04T20:50:25.213Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:50:30.678Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:50:33.230Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T20:50:53.152Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T20:50:57.101Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T20:51:57.412Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:02:07.794Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:02:16.548Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:02:45.587Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:03:01.926Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:03:27.244Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:03:51.745Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:03:55.150Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:05:48.741Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:05:54.761Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:09:02.607Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:09:32.490Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:09:48.821Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:10:28.250Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:10:44.797Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:10:53.766Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:11:00.889Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:12:46.477Z] info servidor rodando: http://localhost:3000
+[2023-05-04T21:12:58.974Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:13:00.267Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:13:06.298Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:13:07.669Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:16:02.617Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:16:20.866Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:40:11.097Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:40:13.856Z] info Usuario Gledson Leite Leal autenticado no recurso /administrador/lista
+[2023-05-04T21:40:18.794Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-04T21:40:24.323Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:40:54.069Z] info Usuario Gledson L deslogado
+[2023-05-04T21:41:04.063Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-04T21:41:08.675Z] info Usuario Gledson L autenticado no recurso /administrador/lista
+[2023-05-04T21:41:15.945Z] info Usuario Gledson L deslogado
+[2023-05-04T21:41:23.748Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T00:07:40.623Z] info servidor rodando: http://localhost:3000
+[2023-05-05T00:07:44.816Z] info Not Found
+[2023-05-05T00:07:44.817Z] info 404
+[2023-05-05T00:13:59.823Z] info servidor rodando: http://localhost:3000
+[2023-05-05T00:35:33.300Z] info servidor rodando: http://localhost:3000
+[2023-05-05T00:35:52.975Z] info servidor rodando: http://localhost:3006
+[2023-05-05T00:35:55.501Z] info Not Found
+[2023-05-05T00:35:55.501Z] info 404
+[2023-05-05T00:39:28.880Z] info servidor rodando: http://localhost:3006
+[2023-05-05T00:47:08.814Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T00:47:11.392Z] info Usuario Gledson L deslogado
+[2023-05-05T00:47:18.473Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T00:47:20.750Z] info Usuario Gledson L deslogado
+[2023-05-05T12:10:29.690Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:10:33.125Z] info Not Found
+[2023-05-05T12:10:33.126Z] info 404
+[2023-05-05T12:11:48.265Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:13:19.546Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:14:27.232Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:15:34.459Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:15:36.271Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:15:45.887Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:15:56.668Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:16:06.232Z] info servidor rodando: http://localhost:3006
+[2023-05-05T12:16:14.664Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T12:16:31.274Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-05T12:16:48.052Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T12:16:51.266Z] info Usuario Gledson L deslogado
+[2023-05-05T12:46:44.790Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T12:46:51.542Z] info Usuario Gledson Leite Leal deslogado
+[2023-05-05T12:47:15.323Z] info : Usuario Gledson L autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T12:47:16.649Z] info Usuario Gledson L deslogado
+[2023-05-05T12:48:09.573Z] info : Usuario Gledson Leite Leal autenticado no recurso /administrador/inicialAdmin
+[2023-05-05T12:48:10.981Z] info Usuario Gledson Leite Leal deslogado

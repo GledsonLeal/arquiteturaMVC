@@ -7,15 +7,16 @@ const passport = require('passport')
 
 const { usuarioAdmin } = require("../helpers/usuarioAdmin")//{ usuarioAdmin } este objeto está pegando somente a função usuarioAdmin
 
-
+const { upload, handleInvalidFileError } = require("../helpers/uploadFoto")
 
 router.get('/', usuarioAdmin,   AdminController.inicialAdmin)
 router.get('/registro', usuarioAdmin,    AdminController.registroAdmin)
-router.post('/registroAdminPost', usuarioAdmin,   AdminController.registroAdminPost)
+router.post('/registroAdminPost', usuarioAdmin, upload.single("pic"), handleInvalidFileError,  AdminController.registroAdminPost)
 router.get('/lista', usuarioAdmin,   AdminController.listarAdmin)
 router.post('/deletarAdmin', usuarioAdmin, AdminController.deletarAdmin)
 router.get('/login', AdminController.login)
 router.post('/loginPost',  AdminController.loginPost)
+//router.post('/',  AdminController.loginPost)
 router.get('/sair', usuarioAdmin,  AdminController.sair)
 router.post('/editarAdmin', usuarioAdmin,  AdminController.updateAdmin)
 router.post('/editarAdminPost', usuarioAdmin,  AdminController.updateAdminPost)

@@ -1,4 +1,5 @@
 const mongo = require('mongoose')
+const logger =require('../helpers/logger')
 
 //mongo.Promise = global.Promise
 
@@ -7,7 +8,7 @@ mongo.connect("mongodb://localhost/mvcmongo",{
     useUnifiedTopology: true,
 }).then(()=>{
     console.log('********* Conectado ao Banco de Dados NoSQL MongoDB ****************')
-    console.log('http://localhost:3000')
+    logger.info(`servidor rodando: http://localhost:3006`)
 }).catch((erro)=>{
     console.log("Erro ao conectar ao MongoDB"+erro)
 })

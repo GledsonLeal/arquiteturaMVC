@@ -14,7 +14,10 @@ const Admin = new Schema({
         type: String,
         //required: true
     },
-    pic: String,
+    pic: {
+        type: String,
+        required: true
+    },
     uid: String, //Facebook id
     token: String,
     gender: String,

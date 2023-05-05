@@ -2,15 +2,16 @@ const mongoose = require("mongoose")// qualquer banco de dados
 //model de administrador
 require('../models/Admin')
 const Admin = mongoose.model("admin")
+const facebook = require("./confAuthFacebook")
 
 const FacebookStrategy = require('passport-facebook').Strategy
 
 
 module.exports = (passport)=>{
   passport.use(new FacebookStrategy({
-    clientID        : "2055039021226946",
-    clientSecret    : "a8b7a328256e15276d2471b9f0c840ac",
-    callbackURL     : 'http://localhost:3000/administrador/facebook/callback',
+    clientID        : facebook.clientID,
+    clientSecret    : facebook.clientSecret,
+    callbackURL     : 'http://localhost:3006/administrador/facebook/callback',
     profileFields   : ['id', 'displayName', 'name', 'gender', 'picture.type(large)','email']
 
 },// o facebook enviará de volta o token e o perfil
